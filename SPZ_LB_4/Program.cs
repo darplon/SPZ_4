@@ -10,6 +10,7 @@ namespace SPZ_LB_4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dima loh");
         }
     }
 }
